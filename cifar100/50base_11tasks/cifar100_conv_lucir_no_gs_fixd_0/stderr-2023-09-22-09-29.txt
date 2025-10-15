@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/home/wlwang/sy/Long-Tailed-CIL-improve/src/main_incremental.py", line 335, in <module>
+    main()
+  File "/home/wlwang/sy/Long-Tailed-CIL-improve/src/main_incremental.py", line 251, in main
+    net.to(device)
+  File "/home/wlwang/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 899, in to
+    return self._apply(convert)
+  File "/home/wlwang/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/home/wlwang/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 570, in _apply
+    module._apply(fn)
+  File "/home/wlwang/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 593, in _apply
+    param_applied = fn(param)
+  File "/home/wlwang/.local/lib/python3.9/site-packages/torch/nn/modules/module.py", line 897, in convert
+    return t.to(device, dtype if t.is_floating_point() or t.is_complex() else None, non_blocking)
+RuntimeError: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call,so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
