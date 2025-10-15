@@ -3,7 +3,7 @@
 ___ -->
 ## [TGRS2025]Continually Evolved Feature and Classifiers Learning for Long-tailed Class-incremental Remote Sensing Scene Classification
 
-This is the official PyTorch implementation of **CEF_CL**([IEEE](https://ieeexplore.ieee.org/document/11114081)).
+This is the official PyTorch implementation of **CEF_CL**([IEEE TGRS](https://ieeexplore.ieee.org/document/11114081)).
 
 ## Method Overview
 ![CEF_CL framework](./CEF_CL.png)
