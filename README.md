@@ -75,7 +75,7 @@ If this work is useful for you, please cite us by:
 
 ## Contact
 
-If you have any questions about this work, please feel free to contact us (xialei AT nankai DOT edu DOT cn or ethanhu AT mail DOT nankai DOT edu DOT cn)
+If you have any questions about this work, please feel free to contact us (sy653565 AT 163 DOT com)
 
 ## Thanks
 
