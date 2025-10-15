@@ -5,6 +5,9 @@ ___ -->
 
 This is the official PyTorch implementation of **CEF_CL**([IEEE](https://ieeexplore.ieee.org/document/11114081)).
 
+## Method Overview
+![CEF_CL framework](./CEF_CL.png)
+
 ## Dataset Prepare
 
 ### NWPU-RESISC45
