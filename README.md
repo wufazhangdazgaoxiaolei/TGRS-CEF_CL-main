@@ -84,7 +84,7 @@ If you have any questions about this work, please feel free to contact us (sy653
 
 ## Thanks
 
-This code is based on [Long-Tailed-CIL](https://github.com/xialeiliu/Long-Tailed-CIL)
+This code is based on [Long-Tailed-CIL](https://github.com/xialeiliu/Long-Tailed-CIL).
 
 
 
